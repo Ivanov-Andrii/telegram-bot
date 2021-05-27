@@ -1,0 +1,18 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "covid19-api": "^1.2.1",
+    "dotenv": "^10.0.0",
+    "telegraf": "^3.38.0"
+  }
+}
